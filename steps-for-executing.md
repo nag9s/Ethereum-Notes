@@ -4,3 +4,5 @@ Creating a Genesis Block
 
 Making Rules for our BlockChain
 
+Validating & Mining Ether
+
