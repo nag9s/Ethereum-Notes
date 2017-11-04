@@ -1,6 +1,6 @@
 Two Popular Implementations
 
- Go Ethereum  goeth
+             Go Ethereum  goeth  \( use Go Lang\)
 
- Parity
+              Parity  \( use Rust Lang\)
 
