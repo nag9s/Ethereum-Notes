@@ -10,4 +10,5 @@
 * [Platform Apps](platform-functions.md)
 * [Solidity](solidity.md)
 * [Steps for Executing](steps-for-executing.md)
+  * [Creating a Genesis Block](steps-for-executing/creating-a-genesis-block.md)
 
