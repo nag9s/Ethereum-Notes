@@ -9,4 +9,5 @@
 * [Implementations](implementations.md)
 * [Platform Apps](platform-functions.md)
 * [Solidity](solidity.md)
+* [Steps for Executing](steps-for-executing.md)
 
