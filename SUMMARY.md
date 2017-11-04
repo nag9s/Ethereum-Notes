@@ -7,4 +7,5 @@
 * Validators \( Miners\)
 * [Consensus Algorithm](consensus-algorithm.md)
 * [Implementations](implementations.md)
+* Platform Functions
 
