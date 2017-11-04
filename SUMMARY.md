@@ -8,4 +8,5 @@
 * [Consensus Algorithm](consensus-algorithm.md)
 * [Implementations](implementations.md)
 * [Platform Apps](platform-functions.md)
+* [Solidity](solidity.md)
 
