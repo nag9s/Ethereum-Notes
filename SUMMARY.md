@@ -5,4 +5,5 @@
 * [Q&A](qanda.md)
 * [Types Of Accounts](types-of-accounts.md)
 * Validators \( Miners\)
+* [Consensus Algorithm](consensus-algorithm.md)
 
