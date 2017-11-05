@@ -4,32 +4,32 @@ npm i web3@0.20.1^C
 
 **Solidity, Solc, EVM**
 
-**    
+**      
 **
 
 **Computation power, memory, storage**
 
-**    
+**      
 **
 
 **Sidechain**
 
-**    
+**      
 **
 
 **Public key and private key = digital signature**
 
-**    
+**      
 **
 
 **Gas, gas price**
 
-**    
+**      
 **
 
 ---
 
-**    
+**      
 **
 
 \*\*--create an account  
@@ -62,12 +62,11 @@ geth attach ipc:data/geth.ipc \(to opens up a console\)
 2. eth.getBalance\(\[0\]\) to check the balance  
 3. miner.start\(1\); \(give the value \(if value is not given system crashes\)\)
 
-&gt; Web3.eth.getBalance\(Web3.eth.accounts\[0\]\)
+INFO \[11-05\|11:03:51\] Generating DAG in progress               epoch=1 percentage=99 elapsed=3m31.469s
 
-{ \[String: '1.1111821111111111111111111e+25'\] s: 1, e: 25, c: \[ 111118211111, 11111111111111 \] }
+stop the miner as soon as the percentage is 99, so that mining will not consume the resources
 
-  
-4. miner.stop\(\) ; to stop the miner thing
+1. miner.stop\(\) ; to stop the miner thing
 
 browse for ethstats.net \(dig in the variables\)  
 coinmarketcap.com  
@@ -81,17 +80,17 @@ it returns true...this says ur account is unlocked and anything can be added int
 
 \*\*
 
-**    
+**      
 **
 
 ---
 
-**    
+**      
 **
 
 **Web3 framework using nodejs**
 
-**    
+**      
 **
 
 **Sudo apt-get install nodejs npm git**
@@ -102,7 +101,7 @@ it returns true...this says ur account is unlocked and anything can be added int
 
 open web3
 
-admin.startRPC\("127.0.0.1",8545,"\*","web3,net,eth,personal,admin"\)\)**    
+admin.startRPC\("127.0.0.1",8545,"\*","web3,net,eth,personal,admin"\)\)**      
 **
 
 open node js from a console
@@ -113,7 +112,7 @@ up nodejs
 
 var web3 = require\('web3'\);
 
-var Web3 = new web3\(new web3.providers.HttpProvider\("[http://localhost:8545"\)\](http://localhost:8545"%29\)\);
+var Web3 = new web3\(new web3.providers.HttpProvider\("\[[http://localhost:8545"\)\]\(http://localhost:8545"\)\)\](http://localhost:8545"%29]%28http://localhost:8545"%29%29\)\);
 
 Web3
 
@@ -126,8 +125,4 @@ Web3
 &gt; Web3.eth.getBalance\(Web3.eth.accounts\[0\]\)
 
 { \[String: '1.1111821111111111111111111e+25'\] s: 1, e: 25, c: \[ 111118211111, 11111111111111 \] }
-
-
-
-
 
