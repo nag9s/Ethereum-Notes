@@ -14,8 +14,10 @@
   * [Creating a Genesis Block](steps-for-executing/creating-a-genesis-block.md)
   * [Making Rules for our BlockChain](steps-for-executing/making-rules-for-our-blockchain.md)
   * [Validating & Mining Ether](steps-for-executing/validating-and-mining-ether.md)
+  * [Installation](steps-for-executing/installation.md)
 * [Genesis.json](genesisjson.md)
 * [Notes](notes.md)
 * [DAO Decentralied Autonomous Organization](dao-decentralied-autonomous-organization.md)
 * [Safe Math](safe-math.md)
+* Side Chain
 

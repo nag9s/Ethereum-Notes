@@ -1,7 +1,5 @@
 used also by hyperledger...
 
-
-
 Native Programming Lang
 
 ```
