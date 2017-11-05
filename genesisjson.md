@@ -1,0 +1,2 @@
+coinbase - if the miner 
+
