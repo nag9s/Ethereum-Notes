@@ -4,32 +4,32 @@ npm i web3@0.20.1^C
 
 **Solidity, Solc, EVM**
 
-**      
+**        
 **
 
 **Computation power, memory, storage**
 
-**      
+**        
 **
 
 **Sidechain**
 
-**      
+**        
 **
 
 **Public key and private key = digital signature**
 
-**      
+**        
 **
 
 **Gas, gas price**
 
-**      
+**        
 **
 
 ---
 
-**      
+**        
 **
 
 \*\*--create an account  
@@ -80,17 +80,17 @@ it returns true...this says ur account is unlocked and anything can be added int
 
 \*\*
 
-**      
+**        
 **
 
 ---
 
-**      
+**        
 **
 
 **Web3 framework using nodejs**
 
-**      
+**        
 **
 
 **Sudo apt-get install nodejs npm git**
@@ -101,7 +101,7 @@ it returns true...this says ur account is unlocked and anything can be added int
 
 open web3
 
-admin.startRPC\("127.0.0.1",8545,"\*","web3,net,eth,personal,admin"\)\)**      
+admin.startRPC\("127.0.0.1",8545,"\*","web3,net,eth,personal,admin"\)\)**        
 **
 
 open node js from a console
@@ -112,7 +112,7 @@ up nodejs
 
 var web3 = require\('web3'\);
 
-var Web3 = new web3\(new web3.providers.HttpProvider\("\[[http://localhost:8545"\)\]\(http://localhost:8545"\)\)\](http://localhost:8545"%29]%28http://localhost:8545"%29%29\)\);
+var Web3 = new web3\(new web3.providers.HttpProvider\("\[\[[http://localhost:8545"\)\]\(http://localhost:8545"\)\)\]\(http://localhost:8545"\)\]\(http://localhost:8545"\)\)\)\](http://localhost:8545"%29]%28http://localhost:8545"%29%29]%28http://localhost:8545"%29]%28http://localhost:8545"%29%29%29\)\);
 
 Web3
 
@@ -125,4 +125,25 @@ Web3
 &gt; Web3.eth.getBalance\(Web3.eth.accounts\[0\]\)
 
 { \[String: '1.1111821111111111111111111e+25'\] s: 1, e: 25, c: \[ 111118211111, 11111111111111 \] }
+
+
+
+
+
+
+
+WEB3DEPLOY** from details - deploying Remix IDE**
+
+1. modify the initialSupply
+2. make the gas to  gas: '470000
+3. take the code from 'WEB3DEPLOY and paste in the ethreum cosole
+4. this will create a contract
+5. the contract will have mehtods  
+   1. **To Pass the gas**
+
+      transer\(eth.accounts\[1\],50, {from:eth.accounts\[0\], gas:'470000'}\)
+
+
+
+
 
