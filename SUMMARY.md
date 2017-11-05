@@ -16,4 +16,5 @@
   * [Validating & Mining Ether](steps-for-executing/validating-and-mining-ether.md)
 * [Genesis.json](genesisjson.md)
 * [Notes](notes.md)
+* [DAO Decentralied Autonomous Organization](dao-decentralied-autonomous-organization.md)
 
