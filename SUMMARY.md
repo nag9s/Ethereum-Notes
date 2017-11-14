@@ -35,4 +35,5 @@
   * [Call](goethereum/go-eth/call.md)
   * [Transactions](goethereum/transactions.md)
 * [Web3](web3.md)
+  * [HTTP Resr Interface](web3/http-resr-interface.md)
 
