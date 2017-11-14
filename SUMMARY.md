@@ -30,5 +30,6 @@
 * [GoEthereum](goethereum.md)
   * [Go Eth](goethereum/go-eth.md)
     * [Default Dire](goethereum/go-eth/default-dire.md)
+  * [Call](goethereum/go-eth/call.md)
   * [Transactions](goethereum/transactions.md)
 
