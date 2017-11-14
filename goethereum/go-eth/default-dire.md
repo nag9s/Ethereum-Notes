@@ -1,0 +1,2 @@
+![](/assets/default.png)
+

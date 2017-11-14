@@ -29,4 +29,5 @@
 * [other Lang](other-lang.md)
 * [GoEthereum](goethereum.md)
   * [Go Eth](goethereum/go-eth.md)
+    * [Default Dire](goethereum/go-eth/default-dire.md)
 
