@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Smart Contracts](smart-contracts.md)
   * [Change](smart-contracts/change.md)
+  * Do contracts create transactions
 * [Q&A](qanda.md)
 * [Types Of Accounts](types-of-accounts.md)
 * [Validators \( Miners\)](validators-miners.md)
