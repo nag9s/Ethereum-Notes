@@ -21,4 +21,5 @@
 * [DAO Decentralied Autonomous Organization](dao-decentralied-autonomous-organization.md)
 * [Safe Math](safe-math.md)
 * Side Chain
+* [other Lang](other-lang.md)
 
