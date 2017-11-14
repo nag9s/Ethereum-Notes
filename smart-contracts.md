@@ -6,7 +6,5 @@ From ethereum master class undemy
 
 ![](/assets/sc1.png)
 
-
-
-![](/assets/sc2.png)
+![](/assets/sc2.png)![](/assets/sc4.png)
 
