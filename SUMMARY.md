@@ -38,4 +38,5 @@
   * [HTTP Resr Interface](web3/http-resr-interface.md)
   * [CORS](web3/cors.md)
 * [Truffle](truffle.md)
+* [FoodSafe](foodsafe.md)
 
