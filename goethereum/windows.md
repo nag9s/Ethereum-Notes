@@ -20,3 +20,7 @@ npm install -g ethereumjs-testrpc
 
 testrpc
 
+npm install -g truffle
+
+truffle --version
+
