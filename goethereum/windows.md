@@ -12,7 +12,11 @@ npm ver
 
 install geth
 
-confirm instllation is done by 
+confirm instllation is done by
 
-geth ver
+geth version
+
+npm install -g ethereumjs-testrpc
+
+testrpc
 
