@@ -1,4 +1,4 @@
-https://nodejs.org/
+[https://nodejs.org/](https://nodejs.org/)
 
 install nodejs LTS any version
 
@@ -8,7 +8,11 @@ nodejs ver
 
 npm ver
 
+[https://geth.ethereum.org/downloads/](https://geth.ethereum.org/downloads/)
 
+install geth
 
-https://geth.ethereum.org/downloads/
+confirm instllation is done by 
+
+geth ver
 
