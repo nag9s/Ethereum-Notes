@@ -41,4 +41,5 @@
   * [CORS](web3/cors.md)
 * [Truffle](truffle.md)
 * [FoodSafe](foodsafe.md)
+* [Mist Browser](mist-browser.md)
 
