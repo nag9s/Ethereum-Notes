@@ -39,6 +39,7 @@
   * [HTTP Resr Interface](web3/http-resr-interface.md)
   * [CORS](web3/cors.md)
 * [Truffle](truffle.md)
+  * [Boxes](truffle/boxes.md)
 * [testRPC](goethereum/testrpc.md)
 * [FoodSafe](foodsafe.md)
 * [Mist Browser](mist-browser.md)
