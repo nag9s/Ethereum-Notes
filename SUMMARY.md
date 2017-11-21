@@ -42,4 +42,5 @@
 * [testRPC](goethereum/testrpc.md)
 * [FoodSafe](foodsafe.md)
 * [Mist Browser](mist-browser.md)
+* Setting Up Private network with geth
 
