@@ -308,7 +308,7 @@ Block Time: Wed Nov 22 2017 09:28:56 GMT+0530 \(IST\)
 
 eth\_getTransactionReceipt
 
-hadoopf@hadoop-Inspiron-5547:~/helloworld$ truffle console \( if this is opened anotherwindow , make sure this is invoked from the corresponding truffle project
+hadoopf@hadoop-Inspiron-5547:~/helloworld$ truffle console \( if this is opened anotherwindow , make sure this is invoked from the corresponding truffle project \)
 
 truffle\(development\)&gt; HelloWorld
 
