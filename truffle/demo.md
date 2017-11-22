@@ -308,13 +308,13 @@ Block Time: Wed Nov 22 2017 09:28:56 GMT+0530 \(IST\)
 
 eth\_getTransactionReceipt
 
-
-
-
-
 hadoop@hadoop-Inspiron-5547:~/helloworld$ truffle console
 
 truffle\(development\)&gt; HelloWorld
 
 it will the information about HelloWorld contract including ABI
+
+
+
+create the instance of HelloWorld contract to invoke the methods
 
