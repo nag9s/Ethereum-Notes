@@ -10,7 +10,9 @@ hadoop@hadoop-Inspiron-5547:~$ pwd
 
 **/home/hadoop/helloworld**
 
-**hadoop@hadoop-Inspiron-5547:~/helloworld$ truffle init**
+**hadoop@hadoop-Inspiron-5547:~/helloworld$ truffle unbox webpack**
+
+
 
 Downloading...
 
@@ -20,13 +22,25 @@ Setting up...
 
 Unbox successful. Sweet!
 
+
+
 Commands:
 
-Compile:        truffle compile
 
-Migrate:        truffle migrate
 
-Test contracts: truffle test
+  Compile:              truffle compile
+
+  Migrate:              truffle migrate
+
+  Test contracts:       truffle test
+
+  Run linter:           npm run lint
+
+  Run dev server:       npm run dev
+
+  Build for production: npm run build
+
+
 
 **hadoop@hadoop-Inspiron-5547:~/helloworld$ code .**
 
@@ -56,15 +70,13 @@ var MetaCoin = artifacts.require\("./MetaCoin.sol"\);
 
 **var HelloWorld = artifacts.require\("./HelloWorld.sol"\);**
 
-
-
 module.exports = function\(deployer\) {
 
-  deployer.deploy\(ConvertLib\);
+deployer.deploy\(ConvertLib\);
 
-  deployer.link\(ConvertLib, MetaCoin\);
+deployer.link\(ConvertLib, MetaCoin\);
 
-  deployer.deploy\(MetaCoin\);
+deployer.deploy\(MetaCoin\);
 
 **  deployer.deploy\(HelloWorld\);**
 
@@ -72,11 +84,13 @@ module.exports = function\(deployer\) {
 
 **hadoop@hadoop-Inspiron-5547:~/helloworld$ truffle compile**
 
+Compiling ./contracts/ConvertLib.sol...
+
 Compiling ./contracts/HelloWorld.sol...
 
-Compiling ./contracts/Migrations.sol...
+Compiling ./contracts/MetaCoin.sol...
 
-Compilation warnings encountered:
+Compiling ./contracts/Migrations.sol...
 
 /home/hadoop/helloworld/contracts/HelloWorld.sol:4:5: Warning: No visibility specified. Defaulting to "public".
 
@@ -106,23 +120,29 @@ The above step will create build directory with the helloworld contrac.t \( equi
 
 **update truffle.js to include the following lines.**
 
+// Allows us to use ES6 in our migrations and tests.
+
+require\('babel-register'\)
+
+
+
 module.exports = {
 
-networks: {
+  networks: {
 
-```
-development: {
+    development: {
 
-  host: "localhost",
+      host: 'localhost',
 
-  port: 8545,
+      port: 8545,
 
-  network\_id: "\*" // Match any network id
+      network\_id: '\*', // Match any network id,
+
+      gas: 4600000
+
+    }
+
+  }
 
 }
-```
-
-}
-
-};
 
