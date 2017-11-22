@@ -12,8 +12,6 @@ hadoop@hadoop-Inspiron-5547:~$ pwd
 
 **hadoop@hadoop-Inspiron-5547:~/helloworld$ truffle unbox webpack**
 
-
-
 Downloading...
 
 Unpacking...
@@ -22,25 +20,19 @@ Setting up...
 
 Unbox successful. Sweet!
 
-
-
 Commands:
 
+Compile:              truffle compile
 
+Migrate:              truffle migrate
 
-  Compile:              truffle compile
+Test contracts:       truffle test
 
-  Migrate:              truffle migrate
+Run linter:           npm run lint
 
-  Test contracts:       truffle test
+Run dev server:       npm run dev
 
-  Run linter:           npm run lint
-
-  Run dev server:       npm run dev
-
-  Build for production: npm run build
-
-
+Build for production: npm run build
 
 **hadoop@hadoop-Inspiron-5547:~/helloworld$ code .**
 
@@ -124,25 +116,25 @@ The above step will create build directory with the helloworld contrac.t \( equi
 
 require\('babel-register'\)
 
-
-
 module.exports = {
 
-  networks: {
+networks: {
 
-    development: {
+```
+development: {
 
-      host: 'localhost',
+  host: 'localhost',
 
-      port: 8545,
+  port: 8545,
 
-      network\_id: '\*', // Match any network id,
+  network\_id: '\*', // Match any network id
 
-      gas: 4600000
+  gas: 4600000
 
-    }
+}
+```
 
-  }
+}
 
 }
 
