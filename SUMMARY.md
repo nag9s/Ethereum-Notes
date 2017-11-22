@@ -46,4 +46,5 @@
 * [FoodSafe](foodsafe.md)
 * [Mist Browser](mist-browser.md)
 * [Setting Up Private network with geth](setting-up-private-network-with-geth.md)
+* [Unlocking the account](unlocking-the-account.md)
 
