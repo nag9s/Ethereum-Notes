@@ -318,11 +318,15 @@ create the instance of HelloWorld contract to invoke the methods
 
 truffle\(development\)&gt; HelloWorld.deployed\(\).then\(function\(instance\) {hello = instance; }\)ell
 
-
-
 as helllo is instance to asyn calls , we should invoke a method called call\(\) to retrieve the contents
 
 truffle\(development\)&gt; hello.sayHello.call\(\)
 
 ' Hello  World'
+
+
+
+truffle\(development\)&gt; .exit
+
+
 
