@@ -62,5 +62,5 @@ deployer.deploy\(Migrations\);
 
 };
 
-hadoop@hadoop-Inspiron-5547:~/helloworld$
+hadoop@hadoop-Inspiron-5547:~/helloworld$ truffle compile
 
