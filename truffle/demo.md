@@ -48,17 +48,25 @@ function sayHello\(\) returns \(string\){
 
 }
 
-**then update 1\_initial\_migration.js to add hello world sol file.**
+**then update 2\_deploy\_contracts.js to add hello world sol file.**
 
-var Migrations = artifacts.require\("./Migrations.sol"\);
+var ConvertLib = artifacts.require\("./ConvertLib.sol"\);
+
+var MetaCoin = artifacts.require\("./MetaCoin.sol"\);
 
 **var HelloWorld = artifacts.require\("./HelloWorld.sol"\);**
 
+
+
 module.exports = function\(deployer\) {
 
-deployer.deploy\(Migrations\);
+  deployer.deploy\(ConvertLib\);
 
-**deployer.deploy\(HelloWorld\);**
+  deployer.link\(ConvertLib, MetaCoin\);
+
+  deployer.deploy\(MetaCoin\);
+
+**  deployer.deploy\(HelloWorld\);**
 
 };
 
@@ -100,21 +108,21 @@ The above step will create build directory with the helloworld contrac.t \( equi
 
 module.exports = {
 
-  networks: {
+networks: {
 
-    development: {
+```
+development: {
 
-      host: "localhost",
+  host: "localhost",
 
-      port: 8545,
+  port: 8545,
 
-      network\_id: "\*" // Match any network id
+  network\_id: "\*" // Match any network id
 
-    }
+}
+```
 
-  }
+}
 
 };
-
-
 
