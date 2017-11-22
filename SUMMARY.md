@@ -40,6 +40,7 @@
   * [CORS](web3/cors.md)
 * [Truffle](truffle.md)
   * [Boxes](truffle/boxes.md)
+  * [Demo](truffle/demo.md)
 * [testRPC](goethereum/testrpc.md)
 * [FoodSafe](foodsafe.md)
 * [Mist Browser](mist-browser.md)
