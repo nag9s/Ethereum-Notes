@@ -48,23 +48,19 @@ function sayHello\(\) returns \(string\){
 
 }
 
-then update 1\_initial\_migration.js to add hello world sol file.
+**then update 1\_initial\_migration.js to add hello world sol file.**
 
 var Migrations = artifacts.require\("./Migrations.sol"\);
 
-var HelloWorld = artifacts.require\("./HelloWorld.sol"\);
-
-
+**var HelloWorld = artifacts.require\("./HelloWorld.sol"\);**
 
 module.exports = function\(deployer\) {
 
-  deployer.deploy\(Migrations\);
+deployer.deploy\(Migrations\);
 
-  deployer.deploy\(HelloWorld\);
+**deployer.deploy\(HelloWorld\);**
 
 };
-
-
 
 hadoop@hadoop-Inspiron-5547:~/helloworld$
 
