@@ -62,5 +62,41 @@ deployer.deploy\(Migrations\);
 
 };
 
-hadoop@hadoop-Inspiron-5547:~/helloworld$ truffle compile
+**hadoop@hadoop-Inspiron-5547:~/helloworld$ truffle compile**
+
+Compiling ./contracts/HelloWorld.sol...
+
+Compiling ./contracts/Migrations.sol...
+
+
+
+Compilation warnings encountered:
+
+
+
+/home/hadoop/helloworld/contracts/HelloWorld.sol:4:5: Warning: No visibility specified. Defaulting to "public".
+
+    function sayHello\(\) returns \(string\){
+
+    ^
+
+Spanning multiple lines.
+
+,/home/hadoop/helloworld/contracts/HelloWorld.sol:4:5: Warning: Function state mutability can be restricted to pure
+
+    function sayHello\(\) returns \(string\){
+
+    ^
+
+Spanning multiple lines.
+
+
+
+**Writing artifacts to ./build/contracts**
+
+
+
+
+
+The above step will create build directory with the helloworld contract
 
