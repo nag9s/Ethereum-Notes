@@ -32,7 +32,7 @@ Test contracts: truffle test
 
 This opens visual code editor.
 
-add HelloWorld.sol under contracts.
+**add HelloWorld.sol under contracts.**
 
 pragma solidity ^0.4.17;
 
@@ -47,6 +47,8 @@ function sayHello\(\) returns \(string\){
 ```
 
 }
+
+then update 1\_initial\_migration.js to add hello world sol file.
 
 hadoop@hadoop-Inspiron-5547:~/helloworld$
 
