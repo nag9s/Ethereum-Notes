@@ -94,5 +94,5 @@ Spanning multiple lines.
 
 The above step will create build directory with the helloworld contrac.t \( equivalent json file \) in it.
 
-**open another tab and testrpc command ... this  opens ethereum testrpc session**
+**open another tab and testrpc command ... this  opens ethereum testrpc session..**
 
