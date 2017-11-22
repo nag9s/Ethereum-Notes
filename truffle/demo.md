@@ -96,3 +96,25 @@ The above step will create build directory with the helloworld contrac.t \( equi
 
 **open another tab and testrpc command ... this  opens ethereum testrpc session..**
 
+**update truffle.js to include the following lines.**
+
+module.exports = {
+
+  networks: {
+
+    development: {
+
+      host: "localhost",
+
+      port: 8545,
+
+      network\_id: "\*" // Match any network id
+
+    }
+
+  }
+
+};
+
+
+
