@@ -314,7 +314,9 @@ truffle\(development\)&gt; HelloWorld
 
 it will the information about HelloWorld contract including ABI
 
-
-
 create the instance of HelloWorld contract to invoke the methods
+
+truffle\(development\)&gt; HelloWorld.deployed\(\).then\(function\(instance\) {hello = instance; }\)
+
+
 
