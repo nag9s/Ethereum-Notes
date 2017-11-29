@@ -48,4 +48,5 @@
 * [Setting Up Private network with geth](setting-up-private-network-with-geth.md)
 * [Unlocking the account](unlocking-the-account.md)
 * [Transaction Execution](transaction-execution.md)
+* [Understanding the ethereum trie](understanding-the-ethereum-trie.md)
 
