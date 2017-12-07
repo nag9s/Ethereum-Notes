@@ -9,6 +9,7 @@
 * [Types Of Accounts](types-of-accounts.md)
 * [Validators \( Miners\)](validators-miners.md)
 * [Consensus Algorithm](consensus-algorithm.md)
+  * [Proof Of Work](consensus-algorithm/proof-of-work.md)
 * [Implementations](implementations.md)
 * [Platform Apps](platform-functions.md)
 * [Solidity](solidity.md)
