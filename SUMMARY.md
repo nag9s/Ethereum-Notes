@@ -20,6 +20,7 @@
     * [ABI](solidity/interaction/abi.md)
     * [Safe Math](safe-math.md)
   * [Arrays'](solidity/arrays.md)
+  * [Functions](solidity/functions.md)
 * [Steps for Executing](steps-for-executing.md)
   * [Creating a Genesis Block](steps-for-executing/creating-a-genesis-block.md)
   * [Making Rules for our BlockChain](steps-for-executing/making-rules-for-our-blockchain.md)
