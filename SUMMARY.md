@@ -18,6 +18,8 @@
   * [Deployment](solidity/deployment.md)
   * [Interaction](solidity/interaction.md)
     * [ABI](solidity/interaction/abi.md)
+    * [Safe Math](safe-math.md)
+  * [Arrays'](solidity/arrays.md)
 * [Steps for Executing](steps-for-executing.md)
   * [Creating a Genesis Block](steps-for-executing/creating-a-genesis-block.md)
   * [Making Rules for our BlockChain](steps-for-executing/making-rules-for-our-blockchain.md)
@@ -27,7 +29,6 @@
 * [Genesis.json](genesisjson.md)
 * [Notes](notes.md)
 * [DAO Decentralied Autonomous Organization](dao-decentralied-autonomous-organization.md)
-* [Safe Math](safe-math.md)
 * Side Chain
 * [other Lang](other-lang.md)
 * [GoEthereum](goethereum.md)
