@@ -60,6 +60,8 @@
 * [EVM](evm.md)
 * [Ether Gas](ether-gas.md)
 * [Ethereum Networks](ethereum-networks.md)
+  * [Test Net](ethereum-networks/test-net.md)
+    * [Free Ethers](ethereum-networks/test-net/free-ethers.md)
 * [Interaction](interaction.md)
 * [Explorers](explorers.md)
 * [Wallet Architecture](wallet-architecture.md)
