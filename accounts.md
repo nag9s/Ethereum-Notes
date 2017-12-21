@@ -4,5 +4,5 @@ The account associated with the contract account need to pay for the executing t
 
 Two types of contract accounts ..
 
-
+![](/assets/acc2.png)
 
