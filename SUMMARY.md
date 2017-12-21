@@ -62,4 +62,5 @@
 * [Ethereum Networks](ethereum-networks.md)
 * [Interaction](interaction.md)
 * [Explorers](explorers.md)
+* [Wallet Architecture](wallet-architecture.md)
 
