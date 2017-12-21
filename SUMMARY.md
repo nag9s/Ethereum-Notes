@@ -67,4 +67,5 @@
 * [Wallet Architecture](wallet-architecture.md)
   * [Mining](wallet-architecture/mining.md)
   * Send Transactions
+* [Accounts](accounts.md)
 
