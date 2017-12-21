@@ -63,4 +63,6 @@
 * [Interaction](interaction.md)
 * [Explorers](explorers.md)
 * [Wallet Architecture](wallet-architecture.md)
+  * [Mining](wallet-architecture/mining.md)
+  * Send Transactions
 
