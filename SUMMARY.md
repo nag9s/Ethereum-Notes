@@ -54,4 +54,6 @@
 * [Unlocking the account](unlocking-the-account.md)
 * [Transaction Execution](transaction-execution.md)
 * [Understanding the ethereum trie](understanding-the-ethereum-trie.md)
+* [Turing complete](turing-complete.md)
+* [Dapps](dapps.md)
 
