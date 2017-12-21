@@ -10,6 +10,7 @@
 * [Validators \( Miners\)](validators-miners.md)
 * [Consensus Algorithm](consensus-algorithm.md)
   * [Proof Of Work](consensus-algorithm/proof-of-work.md)
+  * [Uncles](consensus-algorithm/uncles.md)
 * [Implementations](implementations.md)
 * [Platform Apps](platform-functions.md)
 * [Solidity](solidity.md)
