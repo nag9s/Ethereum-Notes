@@ -56,4 +56,5 @@
 * [Understanding the ethereum trie](understanding-the-ethereum-trie.md)
 * [Turing complete](turing-complete.md)
 * [Dapps](dapps.md)
+* [EVM](evm.md)
 
