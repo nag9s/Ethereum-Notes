@@ -4,5 +4,5 @@ For Dapp connect to the ethereum network, it needs to connect Ethereum Client or
 
 
 
-For instance, take example of standard Ethereum Wallet  \( available from ethereum site\)
+For instance, take example of standard Ethereum Wallet  \( available from ethereum site\). Ethereum wallet launches goeth client to connect to ethereum network. Same way, any dapp you write needs a node to connect to the ethereum network.
 
