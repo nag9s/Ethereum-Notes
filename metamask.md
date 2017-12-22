@@ -12,3 +12,7 @@ To avoid this, you could use the app like metamask where it will turn chrome bro
 
 ![](/assets/dapp2.png)
 
+
+
+You can also connect to the ethereum network of your choice \( testnet, local network or main network\)\)
+
