@@ -68,4 +68,5 @@
   * [Mining](wallet-architecture/mining.md)
   * Send Transactions
 * [Accounts](accounts.md)
+* [MetaMask](metamask.md)
 
