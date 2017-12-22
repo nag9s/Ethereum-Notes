@@ -6,9 +6,11 @@ For instance, take example of standard Ethereum Wallet  \( available from ethere
 
 ![](/assets/dappInfra.png)
 
-
-
 However, it is very expensive interms of resource usage - node needs a lot of memory and bandwidth. You may argue that you will start when needed, however, it will add up it to the start up time and synching up the before using the app.
 
 To avoid this, you could use the app like metamask where it will turn chrome browser to dapp container. The only different with the above is, the node will be maintained in metamask servers ....
+
+
+
+![](/assets/dapp2.png)
 
