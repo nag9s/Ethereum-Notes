@@ -2,5 +2,5 @@
 
 ![](/assets/impl2.png)
 
-![](/assets/ddd.png)
+
 
