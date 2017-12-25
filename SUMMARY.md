@@ -69,4 +69,5 @@
   * Send Transactions
 * [Accounts](accounts.md)
 * [MetaMask](metamask.md)
+* [Online Vs Local Wallet](online-vs-local-wallet.md)
 
