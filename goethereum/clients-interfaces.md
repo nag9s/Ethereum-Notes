@@ -18,7 +18,9 @@ default 8545
 
 to enable
 
-  geth  -rpc
+geth  -rpc
 
 
+
+#### WS RPC
 
