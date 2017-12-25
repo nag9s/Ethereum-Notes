@@ -8,9 +8,17 @@ Geth Clients provides three ways of interacting with the ethereum network.
 
 In remote way of accessing, you could use json or web socket \(ws\) api
 
-
-
 default apis avialble for jspn and ws rpc are eth, web3,net and others are disabled and can be enabled using options ..
 
 ![](/assets/client2.png)
+
+#### JSON RPC
+
+default 8545
+
+to enable
+
+  geth  -rpc
+
+
 
