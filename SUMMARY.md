@@ -39,6 +39,7 @@
   * [Go Eth](goethereum/go-eth.md)
     * [Default Dire](goethereum/go-eth/default-dire.md)
     * [Cosole API](goethereum/go-eth/cosole-api.md)
+    * [Management API](goethereum/go-eth/management-api.md)
   * [Call](goethereum/go-eth/call.md)
   * [Transactions](goethereum/transactions.md)
   * [windows - installation](goethereum/windows.md)
