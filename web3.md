@@ -1,4 +1,6 @@
-Species a way for the browser to talk to the blockchain
+Species a way for the browser to talk to the blockchain.
+
+Web3 js is one such library that simplifies connecting to the Ethereum nodes
 
 ![](/assets/web31.png)
 
