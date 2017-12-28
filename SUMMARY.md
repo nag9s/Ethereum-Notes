@@ -80,4 +80,5 @@
 * [Ethereum Client Or Node](ethereum-client-or-node.md)
 * [Working Of The Client](working-of-the-client.md)
 * [DApp Libraries](dapp-libraries.md)
+* [Notes](notes.md)
 
