@@ -49,6 +49,7 @@
   * [HTTP Resr Interface](web3/http-resr-interface.md)
   * [CORS](web3/cors.md)
   * [Asynchronous call](web3/asynchronous-call.md)
+  * [BigNumbers](web3/bignumbers.md)
 * [Truffle](truffle.md)
   * [Boxes](truffle/boxes.md)
   * [Demo](truffle/demo.md)
