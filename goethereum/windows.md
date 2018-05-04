@@ -12,6 +12,12 @@ npm ver
 
 install geth
 
+  sudo add-apt-repository -y ppa:ethereum/ethereum
+
+ sudo apt-get update
+
+  sudo apt-get install ethereum
+
 confirm instllation is done by
 
 geth version
