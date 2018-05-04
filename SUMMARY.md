@@ -35,6 +35,7 @@
 * [DAO Decentralied Autonomous Organization](dao-decentralied-autonomous-organization.md)
 * Side Chain
 * [other Lang](other-lang.md)
+* [windows - installation](goethereum/windows.md)
 * [GoEthereum](goethereum.md)
   * [Go Eth](goethereum/go-eth.md)
     * [Default Dire](goethereum/go-eth/default-dire.md)
@@ -42,7 +43,6 @@
     * [Management API](goethereum/go-eth/management-api.md)
   * [Call](goethereum/go-eth/call.md)
   * [Transactions](goethereum/transactions.md)
-  * [windows - installation](goethereum/windows.md)
   * [Commands](goethereum/commands.md)
   * [Clients Interfaces](goethereum/clients-interfaces.md)
 * [Web3](web3.md)
