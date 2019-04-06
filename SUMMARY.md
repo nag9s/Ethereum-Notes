@@ -81,4 +81,5 @@
 * [Working Of The Client](working-of-the-client.md)
 * [DApp Libraries](dapp-libraries.md)
 * [Notes](notes.md)
+* [References](references.md)
 
