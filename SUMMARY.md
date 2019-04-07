@@ -54,7 +54,7 @@
   * [Boxes](truffle/boxes.md)
   * [Demo](truffle/demo.md)
   * [QA](truffle/qa.md)
-* [testRPC](goethereum/testrpc.md)
+* [testRPC \( Ganache\)](goethereum/testrpc.md)
 * [FoodSafe](foodsafe.md)
 * [Mist Browser](mist-browser.md)
 * [Setting Up Private network with geth](setting-up-private-network-with-geth.md)
